@@ -1,0 +1,17 @@
+.train-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .train-item {
+    margin: 15px;
+    text-align: center;
+  }
+  
+  .train-item img {
+    width: 50px;
+    height: 50px;
+  }
+  
